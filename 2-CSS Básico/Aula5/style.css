@@ -1,0 +1,28 @@
+
+body{
+    background: rgb(162, 159, 159);
+}
+
+p {
+    color: #292828;
+}
+
+
+.foto-principal{
+    width: 300px;
+    border: 5px solid #ffffff;
+    border-radius:  50%;
+    border-style: double groove;
+
+    margin: 30px 30px 30px 30px; /* shorthand - Também segue sequência: Top, Right, Bottom, Left */
+
+    /*
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    */
+
+
+
+}

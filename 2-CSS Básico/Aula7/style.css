@@ -1,0 +1,21 @@
+
+body{
+    background: rgb(162, 159, 159);
+}
+
+p {
+    color: #292828;
+}
+
+
+.foto-principal{
+    width: 300px;
+    border: 5px solid #ffffff;
+    border-radius:  50%;
+    border-style: double groove;
+    margin: 30px;
+    padding: 5px;
+    box-shadow: 0 0 5px black; /* Recebe 4 parametros: espaçamento da sombra na horizontal, espaçamento da sombra na vertical, desfoque, e cor */
+
+
+}

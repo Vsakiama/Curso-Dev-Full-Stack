@@ -1,0 +1,22 @@
+
+body{
+    background: rgb(162, 159, 159);
+}
+
+p {
+    color: #292828;
+}
+
+
+.foto-principal{
+    width: 300px;
+    border: 5px solid #ffffff;
+    border-radius:  50%;
+    border-style: double groove;
+    margin: 30px;
+
+    padding: 5px;
+    /*Padding é o espaçamento interno, nesse caso na foto principal, entre a foto e a margem. Também segue o padrão "shorthand" de border e margin*/
+
+
+}
